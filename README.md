@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jadhavnavanath
-- 👀 I’m interested in asp.net,MVC,SQL,.NET core,WEB API
-- 🌱 I’m currently learning MVC,.Net Core
+- 👀 I’m interested in Asp.Net,MVC,SQL,.NET core,WEB API
+- 🌱 I’m currently learning MVC,.Net Core, Web API
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
